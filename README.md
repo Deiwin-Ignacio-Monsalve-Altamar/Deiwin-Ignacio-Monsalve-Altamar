@@ -1,10 +1,19 @@
-<h1 align="center"><a id="Hi_Dewin"></a>&nbsp;Hello World, I’m Deiwin Ignacio :wave:</h1>
+![banner1](https://user-images.githubusercontent.com/60376045/89105505-524e7100-d3e7-11ea-9459-966119ea226d.png)
+
+
+<h1 align="center"> Hello World, I’m Deiwin Ignacio wave</h1>
+
+👨‍🎓  Information Systems Specialist from Medellin, COlombua</br>
+👨‍🎓 Professional student in Finance, with knowledge in capital markets and in the financial area of private and public sector companies in U DE COLOMBIA
+
+
+<h3 align="center">A passionate developer web , never stop learning </h3>
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 <p align="center">Full-Stack Software Developer. :robot:</p>
 <h2 align="center"><a id="About_me_6"></a>About me :bust_in_silhouette:</h2>
 <p align="center">:triangular_ruler: maths | :earth_americas: Travel | :computer: Programming</p>
 <h2 align="center"><a id="Social_media_mailbox_with_no_mail_15"></a>Social media :mailbox_with_no_mail:</h2>
-<div align="center">
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
 ## My skills
