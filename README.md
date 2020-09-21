@@ -4,7 +4,14 @@
 <h1 align="center" style="font-family: 'Oswald', sans-serif;"> I’m Deiwin Monsalve Altamar :wave:</h1>
 <h5 align="center">Full Stack Software Developer | Finatial Administration</h5>
 
+<p align="center">
+  <a href="https://twitter.com/DeiwinMonsalve">
+    <img alt="Twitter: DeiwinMonsalve" src="https://img.shields.io/twitter/follow/DeiwinMonsalve.svg?style=social" target="_blank" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Deiwin-Ignacio-Monsalve-Altamar?label=Follow&style=social"/>  
+  </a>
 
+
+</p>
 <h2 align="center"><a id="About_me_6"></a>About me :boy:</h2>
 <p>
   Software developer with 3 years experience in leading teams of gas network installations and RCI. Lover of learning with skills in different fields of programming such as low-level programming, data structures, object relational mapping, object-oriented programming, high-level programming and DevOps. Programmer in Python, C and Javascript, focused on web development and expert in different web technologies such as HTML5, CSS3, Flask.
@@ -12,7 +19,7 @@
 </p>
 
 
-<p align="center">:camping: camping | :earth_americas: Travel </p>
+<p align="center">:camping: Camping | :earth_americas: Travel | :book: Read books </p>
 
 <h3 align="center">A passionate developer web , never stop learning </h3>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
