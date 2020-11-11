@@ -1,6 +1,8 @@
+
+<div style="display: flex;">
 <img src="https://assets.entrepreneur.com/content/3x2/2000/20170705191926-tecnologianegociocompetitivo.jpeg?width=700&crop=2:1" width="300" style="display: none;"/>
 <img src="https://blogs.masterhacks.net/wp-content/uploads/2017/10/masterhacks_relojes_javascript.jpg" width="300" style="display: none;" />
-
+</div>
 
 <h1 align="center" style="font-family: 'Oswald', sans-serif;"> I’m Deiwin Monsalve Altamar :wave:</h1>
 <h5 align="center">Full Stack Software Developer | Finatial Administration</h5>
