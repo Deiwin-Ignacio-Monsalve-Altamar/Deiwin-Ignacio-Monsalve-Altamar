@@ -1,5 +1,5 @@
 <img src="https://assets.entrepreneur.com/content/3x2/2000/20170705191926-tecnologianegociocompetitivo.jpeg?width=700&crop=2:1" width=500/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.masterhacks.net%2Fprogramacion%2Fjavascript%2Frelojes-sencillos-en-javascript-para-tu-web%2F&psig=AOvVaw2BkCVSeZNXoCvw7BuWbiDo&ust=1605203378817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKierdyG--wCFQAAAAAdAAAAABAD" width=500/>
+<img src="https://blogs.masterhacks.net/wp-content/uploads/2017/10/masterhacks_relojes_javascript.jpg" width=500/>
 
 
 <h1 align="center" style="font-family: 'Oswald', sans-serif;"> I’m Deiwin Monsalve Altamar :wave:</h1>
