@@ -1,4 +1,4 @@
-![banner1](https://user-images.githubusercontent.com/60376045/89105505-524e7100-d3e7-11ea-9459-966119ea226d.png)
+![banner1](https://assets.entrepreneur.com/content/3x2/2000/20170705191926-tecnologianegociocompetitivo.jpeg?width=700&crop=2:1)
 
 
 <h1 align="center" style="font-family: 'Oswald', sans-serif;"> I’m Deiwin Monsalve Altamar :wave:</h1>
