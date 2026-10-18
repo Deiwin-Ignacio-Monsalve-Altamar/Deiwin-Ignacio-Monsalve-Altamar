@@ -1,70 +1,58 @@
-
-<div style="display: flex; justify-content: space-around">
-<img src="https://blogs.masterhacks.net/wp-content/uploads/2017/10/masterhacks_relojes_javascript.jpg" width="400" height="200" style="display: none; margin-left: 50" />
-</div>
-
-<h1 align="center" style="font-family: 'Oswald', sans-serif;"> I’m Deiwin Monsalve Altamar :wave:</h1>
-<h5 align="center">Full Stack Software Developer | Finatial Administration</h5>
+<h1 align="center">Hi, I'm Deiwin Monsalve 👋</h1>
+<h3 align="center">Backend Software Engineer | Golang & Python Specialist</h3>
 
 <p align="center">
-  <a href="https://twitter.com/DeiwinMonsalve">
-    <img alt="Twitter: DeiwinMonsalve" src="https://img.shields.io/twitter/follow/DeiwinMonsalve.svg?style=social" target="_blank" />
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Deiwin-Ignacio-Monsalve-Altamar?label=Follow&style=social"/>  
-  </a>
-
-
-</p>
-<h2 align="center"><a id="About_me_6"></a>About me :boy:</h2>
-<p>
-  Software developer with 3 years experience in leading teams of gas network installations and RCI. Lover of learning with skills in different fields of programming such as low-level programming, data structures, object relational mapping, object-oriented programming, high-level programming and DevOps. Programmer in Python, C and Javascript, focused on web development and expert in different web technologies such as HTML5, CSS3, Flask.
-  communication and leading teams
+  <a href="https://www.linkedin.com/in/deiwin-ignacio-monsalve/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:deiwin1987@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/DeiwinMonsalve"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
+---
 
-<p align="center">:camping: Camping | :earth_americas: Travel | :book: Read books </p>
+### 👨‍💻 About Me
 
-<h3 align="center">A passionate developer web , never stop learning </h3>
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+Backend Software Engineer with over 4 years of experience designing and building scalable REST APIs and microservices. Passionate about clean architecture, SOLID principles, and high-performance backend systems.
 
-## My skills
-<h4>Low level</h4>
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/>
-<P>
-<h4>High level</h4>
-<p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-<P>
-<h4>Web developer</h4>
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
-<P>
-<h4>Data base</h4>
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
-<h4>Web server</h4>
-<p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg" alt="Apache" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/nginx/nginx-original.svg" alt="NGINX" width="30" height="30"/>
-<P>
-<h4>Server & Services</h4>
-<p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  <img src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/>
-<P>
+- 🚀 **Core Expertise:** Microservices architecture, distributed systems, and productizing Machine Learning models.
+- 🛠️ **Tech Stack:** Golang (Gin), Python (Flask), MySQL, MongoDB.
+- 📊 **Reliability & Observability:** Monitoring, alerts, structured logging, and tracing using Datadog, Grafana, Kibana, and New Relic.
+- 🎓 **Background:** Software Engineering (Holberton School) & Financial Administration with emphasis on Systems (U de Colombia).
+- 🧭 **Hobbies:** Traveling, camping, and continuous tech exploration.
 
+---
 
-## Github Status
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deiwin-Ignacio-Monsalve-Altamar&hide=javascript,html])](https://github.com/Deiwin-Ignacio-Monsalve-Altamar/github-readme-stats)
+### 🛠️ Tech Stack & Tools
 
-<!-- display the social media buttons in your README -->
+**Languages & Frameworks**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Databases & Caching**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Architecture & Systems**
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20%2F%20Hexagonal-blue?style=flat-square)
+![SOLID](https://img.shields.io/badge/Design-SOLID%20Principles-orange?style=flat-square)
+![Microservices](https://img.shields.io/badge/Systems-Microservices%20%26%20REST%20APIs-success?style=flat-square)
+
+**Observability & Cloud Tools**
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-1CE783?style=flat-square&logo=new-relic&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-<a href="https://twitter.com/DeiwinMonsalve" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/733/733579.svg" alt="@Deiwin20" height="35" width="35" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/deiwin-ignacio-monsalve/" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/174/174857.svg" alt="Deiwin/" height="35" width="35" /></a>&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100006746774705" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/733/733547.svg" alt="Deiwin20" height="35" width="35" /></a>&nbsp;
-<a href="https://www.youtube.com/deiwinmonsalve" target="blank"><img align="center" src="https://www.flaticon.es/svg/static/icons/svg/174/174855.svg" alt="Deiwin" height="35" width="35" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deiwin-Ignacio-Monsalve-Altamar&show_icons=true&theme=radical&hide_border=true" alt="Deiwin's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deiwin-Ignacio-Monsalve-Altamar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
