@@ -1,6 +1,5 @@
 
 <div style="display: flex; justify-content: space-around">
-<img src="https://assets.entrepreneur.com/content/3x2/2000/20170705191926-tecnologianegociocompetitivo.jpeg?width=700&crop=2:1" width="400" height="200" style="display: none;"/>
 <img src="https://blogs.masterhacks.net/wp-content/uploads/2017/10/masterhacks_relojes_javascript.jpg" width="400" height="200" style="display: none; margin-left: 50" />
 </div>
 
